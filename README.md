@@ -10,7 +10,6 @@ I like to look code up in
 
 And sometimes in 
 - C#
-- HTML
-- CSS
+- HTML/CSS
 
 And im bad at coding
