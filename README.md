@@ -8,3 +8,4 @@ I like code in:
 - python
 
 
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=dev-kowal)
